@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/favicon.ico
 // @grant        GM_addStyle
 // @updateURL    https://raw.githubusercontent.com/zzy-x/dest/main/google_search.js
+// @downloadURL    https://raw.githubusercontent.com/zzy-x/dest/main/google_search.js
 // ==/UserScript==
 
 (function () {
