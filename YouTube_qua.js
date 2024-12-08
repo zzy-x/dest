@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube默认优先1440p或最高画质
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      ascacs
 // @description  自动将YouTube视频画质优先设置为1440p，如果没有1440p，则选择最高可用画质。
 // @author       ChatGPT
 // @match        *://www.youtube.com/watch*
